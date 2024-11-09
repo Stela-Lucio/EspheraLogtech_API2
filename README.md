@@ -14,14 +14,14 @@ Bem-vindo(a) à ESPHERA LOGTECH, onde conectamos o mundo com soluções logísti
 >Logo
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
+      <img src="Arquivos_Sprint1/ESPHERA_LOGTECH.png" width="30%" height="30%">
 <p align="center">
 
 
 >Organograma
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Organograma.jpeg" width="70%" height="70%">
+      <img src="Arquivos_Sprint1/Equipe.png" width="70%" height="70%">
 <p align="center">
 
 
@@ -31,7 +31,6 @@ Bem-vindo(a) à ESPHERA LOGTECH, onde conectamos o mundo com soluções logísti
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
@@ -70,7 +69,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_produto.png" width="80%" height="80%">
+      <img src="Arquivos_Sprint1/Backlog_API2.png" width="80%" height="80%">
 <p align="center">
 
 ## Sprint 1. Concepção
