@@ -40,8 +40,8 @@ Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de proje
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Jennifer Senne         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenni-senne-97a0452b9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JSenne15)              |
-| Scrum Master  | Bruno Canuto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/bruno-canuto-746944291)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01))     |
-| Team Member   | Emilly Tamanhoni            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-tamanhoni-1b1ba2294)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/emillytamanhoni)        |
+| Scrum Master  | Bruno Canuto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/bruno-canuto-746944291)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)     |
+| Team Member   | Emilly Tamanhoni            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-tamanhoni-1b1ba2294) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/emillytamanhoni)        |
 |  Team Member  | Fagner Pereira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-santos-235a82229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FagPSantos)        |
 |  Team Member  | Kaick Monfredini                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](falta) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
 |  Team Member  | Marcos Sousa     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](falta) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](falta)          |
@@ -73,26 +73,25 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 <p align="center">
 
 ## Sprint 1. Concepção
-- [X] Entender como funciona o backlog e executar conforme a necessidade;
-- [X] Entender e executar as funcionalidades do aplicativo Jira;
-- [X] Entender as funcionalidades e estruturar o Github;
-- [X] Estruturar o relatório da sprint 1;
+- [X] Entendimento da proporta da EMTU;
+- [X] Apresentação das ideias iniciais;
+- [X] Mapeamento inicial dos possíveis pontos para estação tubo;
+- [X] Mapeamento inicial das paradas especificas e alternadas;
 - [X] Montar apresentação da sprint.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [X] Iniciar a estrutura do Power BI
-- [X] Analisar cargas já movimentadas por aeroportos próximos;
-- [X] Filtragem e identificação de produtos promissores;
-- [X] Qualidade de dados;
-- [X] Atualização dos softwares;
-- [X] Estruturar o relatório da sprint 2.
+- [X] Analise das linhas da EMTU;
+- [X] Contato com dados disponibilizados;
+- [X] Mapeamento real das localizações ideais para a estação tubo;
+- [X] Analise de gastos, custos e demanda;
+- [X] Estruturar o relatório da sprint 2;
+- [X] Apresentação sprint 2.
      
 ## Sprint 3. Operacionalização
-- [X] Finalização e entrega do dashboard;
-- [X] Revisar dados e softwares;
-- [X] Detalhamento por modais;
-- [X] Preparação para a apresentação final;
-- [X] Estruturar relatório final.
+- [ ] Finalização e entrega do dashboard;
+- [ ] Revisar dados;
+- [ ] Preparação para a apresentação final;
+- [ ] Estruturar relatório final.
 
 
 
