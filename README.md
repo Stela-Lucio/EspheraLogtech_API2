@@ -25,13 +25,6 @@ Bem-vindo(a) à ESPHERA LOGTECH, onde conectamos o mundo com soluções logísti
 <p align="center">
 
 
->Análise SWOT- API
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Análise_Swot.png" width="70%" height="70%">
-<p align="center">
-
-
 # Índice
 
 * [Projeto](#projeto-template)
@@ -48,38 +41,28 @@ Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de proje
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Jennifer Senne         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenni-senne-97a0452b9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JSenne15)              |
-| Scrum Master  | Stela Lúcio |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stela-lúcio-4849ab289) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)     |
-| Team Member   | Ana Clara              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/faltaolinkedin](https://www.linkedin.com/in/ana-clara-72347b286/)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nahclarasilva)        |
-|  Team Member  | Isabela Lopes                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-lopes-a35057274) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isaprin)        |
-|  Team Member  | Pedro Martins                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-39a2972a4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/martins2903)   |
-|  Team Member  | Rafael Cesar      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cesar-de-lira-140733223) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RCLIRA2804)          |
-|  Team Member  | Reinaldo Mariano       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-mariano-de-oliveira-3a4155237) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ReinaldoMariano)          |
+| Scrum Master  | Bruno Canuto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/bruno-canuto-746944291)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01))     |
+| Team Member   | Emilly Tamanhoni            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-tamanhoni-1b1ba2294)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/emillytamanhoni)        |
+|  Team Member  | Fagner Pereira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-santos-235a82229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FagPSantos)        |
+|  Team Member  | Kaick Monfredini                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](falta) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
+|  Team Member  | Marcos Sousa     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](falta) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](falta)          |
+|  Team Member  | Stela Lúcio       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/stela-lúcio-4849ab289) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)          |
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo mapear e produzir um fluxo de exportações a partir dos dados da RMVALE e LITORAL NORTE através do aeroporto Professor Ernesto Stumpf, visando:
-* Detalhar cargas potenciais;
-* Cargas com valor agregado relevante;
-* Otimização de tempo logístico;
-* Analisar as oportuninades aeroviárias;
-* Desenvolvimento de uma ferramenta visual, com dados que auxiliem tomadas de decisões.
- 
-
-## Tecnologias Utilizadas
-
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Tecnologias_utilizadas..png" width="50%" height="50%">
-<p align="center">
+Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um plano de integração para o transporte público, utilizando dados estratégicos de planejamento urbano, visando:
+* Mapear e planejar melhorias no transporte público com base em dados estratégicos de planejamento urbano;
+* Aprimorar a eficiência e conectividade do sistema de transporte público, proporcionando um fluxo de mobilidade mais ágil e acessível;
+* Ampliar o acesso e a qualidade do transporte para todos os usuários, especialmente em áreas periféricas e de alta densidade populacional.
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
-|01 | 15/04/2024 | Concluído| - |- |
-|02|  06/05/2024|Concluído |-|-|
-|03| 27/05/2024 | Concluído| - | - |
-|Feira de Soluções|27/06/2024 | Concluído |  -  | - |
+|01 | 07/10/2024 | Concluído| - |- |
+|02|  11/11/2024|Finalizando |-|-|
+|03| 25/11/2024 | A fazer| - | - |
+|Feira de Soluções|12/12/2024 | A fazer |  -  | - |
   
 # Backlog
 
