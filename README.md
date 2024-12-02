@@ -59,7 +59,7 @@ Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um pl
 Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
 |01 | 07/10/2024 | Concluído| - |[Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf) |
-|02|  11/11/2024|Concluído|-|[Ver Apresentação]()|
+|02|  11/11/2024|Concluído|-|[Ver Apresentação](Arquivos_Sprint1/Sprint2.pdf)|
 |03| 25/11/2024 | Finalizando| - | - |
 |Feira de Soluções|12/12/2024 | A fazer |  -  | - |
   
