@@ -60,8 +60,8 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
 |01 | 07/10/2024 | Concluído| - |[Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf) |
 |02|  11/11/2024|Concluído|-|[Ver Apresentação](Arquivos_Sprint1/Sprint2.pdf)|
-|03| 25/11/2024 | Finalizando| - | - |
-|Feira de Soluções|12/12/2024 | A fazer |  -  | - |
+|03| 25/11/2024 | Concluído| - | - |
+|Feira de Soluções|12/12/2024 |Concluído |  -  | - |
   
 # Backlog
 
@@ -88,10 +88,10 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 - [X] Apresentação sprint 2.
      
 ## Sprint 3. Operacionalização
-- [ ] Finalização e entrega do dashboard;
-- [ ] Revisar dados;
-- [ ] Preparação para a apresentação final;
-- [ ] Estruturar relatório final.
+- [X] Finalização e entrega do dashboard;
+- [X] Revisar dados;
+- [X] Preparação para a apresentação final;
+- [X] Estruturar relatório final.
 
 
 
