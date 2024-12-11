@@ -60,8 +60,8 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
 |01 | 07/10/2024 | Concluído| - |[Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf) |
 |02|  11/11/2024|Concluído|-|[Ver Apresentação](Arquivos_Sprint1/Sprint2.pdf)|
-|03| 25/11/2024 | Concluído| - | - |
-|Feira de Soluções|12/12/2024 |Concluído |  -  | - |
+|03| 25/11/2024 | Concluído| - | [Ver Apresentação](Arquivos_sprint3/Planejamento_Urbano_Sprint4.pdf) |
+|Feira de Soluções|12/12/2024 |Concluído |  [Ver Relatório]() | [Ver Apresentação](Arquivos_feira/Planejamento_Urbano_Feira.pdf)/ [Ver Dashboard]()|
   
 # Backlog
 
