@@ -24,6 +24,11 @@ Bem-vindo(a) à ESPHERA LOGTECH, onde conectamos o mundo com soluções logísti
       <img src="Arquivos_Sprint1/Equipe.png" width="70%" height="70%">
 <p align="center">
 
+>Organograma
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Tecnologias.png" width="70%" height="70%">
+<p align="center">
 
 # Índice
 
